@@ -150,7 +150,7 @@ Learn while covering syllabus parallely
 
 
 # Deep Learning Fundamentals
-1. Neural Network [Link]()
+1. Neural Network [Link](https://github.com/23f2002284/My-deep-learning-notes/blob/main/Deep%20Learning/Neural-Networks-%20Index.pdf)
 2. Backpropagation
 3. MLPs
 4. Layers
