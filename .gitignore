@@ -1,0 +1,5 @@
+# Ignore Pendings folder and its files
+Pendings/
+
+# Ignore .obsidian folder
+.obsidian/
