@@ -1,3 +1,0 @@
-- [ ] Neural network notes -> pdf -> update the github link to the readme.md
-	- [ ] Numpy solution -> pdf -> update the github link to main note
-	- [ ] 
